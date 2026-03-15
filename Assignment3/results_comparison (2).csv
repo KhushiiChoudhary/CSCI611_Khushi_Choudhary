@@ -1,0 +1,5 @@
+Model,mAP@0.5,mAP@0.5:0.95,Precision,Recall
+Baseline (Pre-trained),0.0,0.0,0.0,0.0
+Exp1: Fine-tuned 640 30ep,0.9636,0.8221,0.9368,0.9296
+Exp2: High-Res 1280 30ep,0.9599,0.8114,0.9581,0.9102
+Exp3: Augmented 640 50ep,0.9696,0.8054,0.9506,0.9327
